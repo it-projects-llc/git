@@ -1,4 +1,4 @@
-FROM alpine
+FROM bash
 
 LABEL maintainer Bill Wang <ozbillwang@gmail.com>
 
